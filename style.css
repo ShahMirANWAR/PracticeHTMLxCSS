@@ -3,3 +3,7 @@ h1{margin: left ;100px ;
     
     font-style: oblique;
 }
+body{
+    border-color: 2px solid rgb(44, 2, 2);
+    background-color: rgb(241, 255, 255);
+}
